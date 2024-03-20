@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/builder-jammy-base
+module github.com/initializ-buildpacks/initz-builder
 
 go 1.18
 
